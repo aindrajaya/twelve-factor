@@ -17,3 +17,17 @@ Our motivation is to raise awareness of some systemic problems we’ve seen in m
 
 ## Who Should Read this Document?
 Any developer building applications which run as a service. Ops engineers who deploy or manage such applications.
+
+## 12 Factors
+1. [Codebase](https://github.com/aindrajaya/twelve-factor/roles#1-codebase)
+2. [Dependencies](https://github.com/aindrajaya/twelve-factor/roles#2-dependency)
+3. [Config](https://github.com/aindrajaya/twelve-factor/roles#3-config)
+4. [Backing Services](https://github.com/aindrajaya/twelve-factor/roles#4-backing-services)
+5. [Build, release, run](https://github.com/aindrajaya/twelve-factor/roles#5-build-release-run)
+6. [Processes](https://github.com/aindrajaya/twelve-factor/roles#6-processes)
+7. [Port binding](https://github.com/aindrajaya/twelve-factor/roles#7-port-binding)
+8. [Concurrency](https://github.com/aindrajaya/twelve-factor/roles#8-concurrency)
+9. [Disposability](https://github.com/aindrajaya/twelve-factor/roles#9-disposability)
+10. [Dev/Prod Parity](https://github.com/aindrajaya/twelve-factor/roles#10-dev-pro-parity)
+11. [Logs](https://github.com/aindrajaya/twelve-factor/roles#11-logs)
+12. [Admin Processe](https://github.com/aindrajaya/twelve-factor/roles#12-admin-processes)
